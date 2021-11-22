@@ -1,4 +1,4 @@
-# Timing-Note
+# Hackernote
 User and password bruteforce script, writen on python for HackerNote machine by TryHackMe.
 All the credentials found are saved on a .txt file, this is for that don't need to see the terminal all the time while you are doing a cup of coffee.
 
